@@ -14,7 +14,7 @@ function megjelenit(adatok){
         sz+='<br>'
         sz+="<a target='_blank' href='"+elem.image+"'><img src='"+elem.image+"' class='elefantkepek'></a>";
         sz+='<br>'
-        sz+='<a href="'+elem.wikilink+'" target="popup">'+elem.wikilink+'</a>'
+        sz+='<a href="'+elem.wikilink+'" target="popup" >'+elem.wikilink+'</a>'
         sz+='</div>'
     }
 
