@@ -1,0 +1,45 @@
+.elefantkepek{
+    height: 200px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow:4px 4px 10px #808080;
+    transition: transform .60s;
+
+}
+
+body{
+    background-image: url(elefant.jpg);
+    background-size: auto;
+    background-repeat: repeat;
+}
+
+.nevek{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: ivory;
+}
+
+div{
+    border: 3px solid #ddd;
+    box-shadow: 1px 1px 2px #808080;
+    background-color: 0.5 antiquewhite ;
+   
+    
+}
+
+a{
+    font-size: 10px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-weight: initial;
+    text-shadow: 2px 2px 5px black;
+}
+
+
