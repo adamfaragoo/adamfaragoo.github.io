@@ -20,6 +20,7 @@ function megjelenit(adatok){
     document.getElementById("ide").innerHTML=sz;
 }
 
+
 function nagyitas(img, height, width) {
     if(img.style.height == '150px'){
         img.style.height = '300px';
