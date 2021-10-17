@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2021. Okt 17. 22:22
+-- Létrehozás ideje: 2021. Okt 17. 22:33
 -- Kiszolgáló verziója: 10.4.6-MariaDB
 -- PHP verzió: 7.3.8
 
@@ -44,16 +44,16 @@ CREATE TABLE `jatekosok` (
 --
 
 INSERT INTO `jatekosok` (`jatekos_id`, `jatekos_nev`, `jatekos_poz`, `jatekos_csapat`, `jatekos_mezszam`, `jatekos_kor`) VALUES
-(1, 'Tyler_Herro', 'SG', 'Miami_Heat', 14, 21),
-(2, 'Ja_Morant', 'PG', 'Memphis_Grizzlies ', 12, 22),
-(3, 'DeAaron_Fox', 'PG', 'Sacramento_Kings', 5, 23),
-(4, 'Nikola_Vucevic', 'C', 'Chicago_Bulls', 9, 30),
-(5, 'Bam_Adebayo', 'C', 'Miami_Heat', 13, 24),
-(6, 'LeBron_James', 'SF', 'Los_Angeles_Lakers', 23, 36),
-(7, 'Aaron_Holiday', 'PG', 'Washington_Wizzards', 3, 25),
-(8, 'Giannis_Antetokounmpo', 'PF', 'Milwaukee_Bucks', 34, 26),
-(9, 'James_Harden', 'SG', 'Brooklyn_Nets', 13, 32),
-(14, 'Gorgui_Dieng', 'C', 'San_Antonio_Spurs', 10, 31);
+(1, 'Tyler Herro', 'SG', 'Miami Heat', 14, 21),
+(2, 'Ja Morant', 'PG', 'Memphis Grizzlies ', 12, 22),
+(3, 'DeAaronFox', 'PG', 'Sacramento Kings', 5, 23),
+(4, 'Nikola Vucevic', 'C', 'Chicago Bulls', 9, 30),
+(5, 'Bam Adebayo', 'C', 'Miami Heat', 13, 24),
+(6, 'LeBron James', 'SF', 'Los Angeles Lakers', 23, 36),
+(7, 'Aaron Holiday', 'PG', 'Washington Wizzards', 3, 25),
+(8, 'Giannis Antetokounmpo', 'PF', 'Milwaukee Bucks', 34, 26),
+(9, 'James Harden', 'SG', 'Brooklyn Nets', 13, 32),
+(14, 'Gorgui Dieng', 'C', 'San Antonio Spurs', 10, 31);
 
 --
 -- Indexek a kiírt táblákhoz
@@ -73,7 +73,7 @@ ALTER TABLE `jatekosok`
 -- AUTO_INCREMENT a táblához `jatekosok`
 --
 ALTER TABLE `jatekosok`
-  MODIFY `jatekos_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
+  MODIFY `jatekos_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
