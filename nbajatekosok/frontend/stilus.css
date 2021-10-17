@@ -1,0 +1,26 @@
+body{
+    background-image: url(nbahatter.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.adatok{
+    margin-right: 800px;
+    margin-left: 70px;
+    margin-top: 20px;
+    background-color:#98002E;
+
+    padding: 10px;
+    box-shadow: 5px 10px white
+}
+
+
+p{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.bevitel{
+    margin-left: 70px;
+    margin-top: 50px;
+}
