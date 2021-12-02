@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/munchkin/static/js/app.399ddae1.chunk.js",
+    "app.js.map": "/munchkin/static/js/app.399ddae1.chunk.js.map",
+    "runtime~app.js": "/munchkin/static/js/runtime~app.1e811858.js",
+    "runtime~app.js.map": "/munchkin/static/js/runtime~app.1e811858.js.map",
+    "static/js/2.c581b755.chunk.js": "/munchkin/static/js/2.c581b755.chunk.js",
+    "static/js/2.c581b755.chunk.js.map": "/munchkin/static/js/2.c581b755.chunk.js.map",
+    "favicon-16.png": "/munchkin/favicon-16.png",
+    "favicon-32.png": "/munchkin/favicon-32.png",
+    "favicon.ico": "/munchkin/favicon.ico",
+    "index.html": "/munchkin/index.html",
+    "serve.json": "/munchkin/serve.json",
+    "static/js/2.c581b755.chunk.js.LICENSE.txt": "/munchkin/static/js/2.c581b755.chunk.js.LICENSE.txt",
+    "static/media/dobokocka.png": "/munchkin/static/media/dobokocka.49d2efeb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.1e811858.js",
+    "static/js/2.c581b755.chunk.js",
+    "static/js/app.399ddae1.chunk.js"
+  ]
+}
